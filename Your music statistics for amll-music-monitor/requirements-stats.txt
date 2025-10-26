@@ -1,0 +1,4 @@
+matplotlib>=3.5
+Jinja2>=3.0
+wordcloud>=1.9      # 可选，用于歌手词云
+jieba>=0.42         # 可选，中文分词
