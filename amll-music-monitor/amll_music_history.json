@@ -1,0 +1,702 @@
+[
+  {
+    "artist": "犬儒乐队",
+    "title": "皮囊",
+    "timestamp": "2025-10-24T19:00:13.002322",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|皮囊"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "志铭",
+    "timestamp": "2025-10-24T19:04:07.854412",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|志铭"
+  },
+  {
+    "artist": "Beyond",
+    "title": "长城",
+    "timestamp": "2025-10-25T19:55:24.489499",
+    "software": "AMLL Player",
+    "key": "Beyond|长城"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "像个婊子",
+    "timestamp": "2025-10-25T19:56:11.534276",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|像个婊子"
+  },
+  {
+    "artist": "回春丹乐队",
+    "title": "大地雷公",
+    "timestamp": "2025-10-25T19:56:58.071933",
+    "software": "AMLL Player",
+    "key": "回春丹乐队|大地雷公"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "这是个问题",
+    "timestamp": "2025-10-25T19:57:01.578702",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|这是个问题"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "志铭",
+    "timestamp": "2025-10-25T19:57:03.081906",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|志铭"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "永嘉彗星-B站跨年晚会版",
+    "timestamp": "2025-10-25T19:57:04.085725",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|永嘉彗星-B站跨年晚会版"
+  },
+  {
+    "artist": "回春丹",
+    "title": "花桥",
+    "timestamp": "2025-10-25T19:57:05.092689",
+    "software": "AMLL Player",
+    "key": "回春丹|花桥"
+  },
+  {
+    "artist": "草东没有派对",
+    "title": "大风吹",
+    "timestamp": "2025-10-25T19:57:05.629952",
+    "software": "AMLL Player",
+    "key": "草东没有派对|大风吹"
+  },
+  {
+    "artist": "草东没有派对",
+    "title": "勇敢的人",
+    "timestamp": "2025-10-25T20:01:01.937570",
+    "software": "AMLL Player",
+    "key": "草东没有派对|勇敢的人"
+  },
+  {
+    "artist": "回春丹",
+    "title": "公主",
+    "timestamp": "2025-10-25T20:04:42.740666",
+    "software": "AMLL Player",
+    "key": "回春丹|公主"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "国家的需要",
+    "timestamp": "2025-10-25T20:08:17.516797",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|国家的需要"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "中国特色",
+    "timestamp": "2025-10-25T20:10:21.697988",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|中国特色"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "真实的邪念",
+    "timestamp": "2025-10-25T20:10:26.208088",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|真实的邪念"
+  },
+  {
+    "artist": "大波浪/秦霄贤",
+    "title": "Fill In (Live)",
+    "timestamp": "2025-10-25T20:15:33.584787",
+    "software": "AMLL Player",
+    "key": "大波浪/秦霄贤|Fill In (Live)"
+  },
+  {
+    "artist": "回春丹",
+    "title": "五彩斑斓的黑",
+    "timestamp": "2025-10-25T20:20:03.458188",
+    "software": "AMLL Player",
+    "key": "回春丹|五彩斑斓的黑"
+  },
+  {
+    "artist": "草东没有派对",
+    "title": "床",
+    "timestamp": "2025-10-25T20:24:16.746117",
+    "software": "AMLL Player",
+    "key": "草东没有派对|床"
+  },
+  {
+    "artist": "回春丹",
+    "title": "正义",
+    "timestamp": "2025-10-25T20:28:09.040513",
+    "software": "AMLL Player",
+    "key": "回春丹|正义"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "病",
+    "timestamp": "2025-10-25T20:36:50.020182",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|病"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "万岁",
+    "timestamp": "2025-10-25T20:40:36.762008",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|万岁"
+  },
+  {
+    "artist": "唐朝乐队",
+    "title": "梦回唐朝",
+    "timestamp": "2025-10-25T20:57:43.955724",
+    "software": "AMLL Player",
+    "key": "唐朝乐队|梦回唐朝"
+  },
+  {
+    "artist": "Beyond",
+    "title": "光辉岁月",
+    "timestamp": "2025-10-25T21:08:41.492758",
+    "software": "AMLL Player",
+    "key": "Beyond|光辉岁月"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "今日青年",
+    "timestamp": "2025-10-25T21:29:17.374307",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|今日青年"
+  },
+  {
+    "artist": "窦唯",
+    "title": "高级动物",
+    "timestamp": "2025-10-25T21:29:18.386940",
+    "software": "AMLL Player",
+    "key": "窦唯|高级动物"
+  },
+  {
+    "artist": "唐朝乐队",
+    "title": "太阳",
+    "timestamp": "2025-10-25T21:29:19.392599",
+    "software": "AMLL Player",
+    "key": "唐朝乐队|太阳"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "让位",
+    "timestamp": "2025-10-25T21:29:19.403772",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|让位"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "圈",
+    "timestamp": "2025-10-25T21:29:19.923006",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|圈"
+  },
+  {
+    "artist": "大波浪",
+    "title": "No Such Disease",
+    "timestamp": "2025-10-25T21:29:20.012148",
+    "software": "AMLL Player",
+    "key": "大波浪|No Such Disease"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "自由的边缘",
+    "timestamp": "2025-10-25T21:29:20.585266",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|自由的边缘"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "愤怒",
+    "timestamp": "2025-10-25T21:29:21.270725",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|愤怒"
+  },
+  {
+    "artist": "梅卡德尔",
+    "title": "落体",
+    "timestamp": "2025-10-25T21:29:21.439930",
+    "software": "AMLL Player",
+    "key": "梅卡德尔|落体"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "在这颗行星所有的酒馆",
+    "timestamp": "2025-10-25T21:29:22.105466",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|在这颗行星所有的酒馆"
+  },
+  {
+    "artist": "草东没有派对",
+    "title": "山海",
+    "timestamp": "2025-10-25T21:29:22.291958",
+    "software": "AMLL Player",
+    "key": "草东没有派对|山海"
+  },
+  {
+    "artist": "罗大佑",
+    "title": "皇后大道东",
+    "timestamp": "2025-10-25T21:29:22.964117",
+    "software": "AMLL Player",
+    "key": "罗大佑|皇后大道东"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "永嘉彗星-B站跨年晚会版",
+    "timestamp": "2025-10-25T21:29:36.049964",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|永嘉彗星-B站跨年晚会版"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "犬儒（专辑全长）",
+    "timestamp": "2025-10-25T21:29:46.563571",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|犬儒（专辑全长）"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "永嘉彗星-B站跨年晚会版",
+    "timestamp": "2025-10-25T21:29:49.079572",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|永嘉彗星-B站跨年晚会版"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "愤怒",
+    "timestamp": "2025-10-25T21:39:47.531288",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|愤怒"
+  },
+  {
+    "artist": "蔡徐坤",
+    "title": "Deadman",
+    "timestamp": "2025-10-25T21:39:54.540078",
+    "software": "AMLL Player",
+    "key": "蔡徐坤|Deadman"
+  },
+  {
+    "artist": "椿乐队",
+    "title": "野草",
+    "timestamp": "2025-10-25T21:39:57.045048",
+    "software": "AMLL Player",
+    "key": "椿乐队|野草"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "冀西南林路行 (专辑全长)",
+    "timestamp": "2025-10-25T21:41:22.625509",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|冀西南林路行 (专辑全长)"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "犬儒（专辑全长）",
+    "timestamp": "2025-10-25T21:41:26.140440",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|犬儒（专辑全长）"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T21:41:31.658241",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T21:41:34.662850",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T21:41:38.668017",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T21:41:41.173179",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T21:41:43.687766",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T21:41:45.194079",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T21:41:46.699858",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T21:41:48.706202",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T21:41:50.710123",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T21:41:52.213625",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T21:41:54.217086",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T21:41:55.220892",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T21:41:56.733205",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T21:41:58.240880",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T21:41:59.746546",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T21:42:00.753519",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T21:42:02.269660",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T21:42:03.803237",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T21:42:07.309727",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T21:42:10.323564",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:00:42.445319",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:00:44.450109",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:00:45.453397",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:00:46.456679",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:00:46.959195",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:00:47.963255",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:00:49.468523",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:00:50.971807",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:05:07.237392",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:05:08.745127",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:05:09.750276",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:05:11.258074",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:05:12.263005",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:05:12.768631",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:05:13.774956",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:05:14.278170",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:05:15.283531",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:05:15.788261",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:05:22.797410",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:05:24.301653",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:05:25.306603",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "杀死那个石家庄人",
+    "timestamp": "2025-10-25T22:05:26.811147",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|杀死那个石家庄人"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:05:28.816473",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "烂苹果",
+    "timestamp": "2025-10-25T22:09:56.518253",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|烂苹果"
+  },
+  {
+    "artist": "万能青年旅店",
+    "title": "大石碎胸口",
+    "timestamp": "2025-10-25T22:09:58.025688",
+    "software": "AMLL Player",
+    "key": "万能青年旅店|大石碎胸口"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "烂苹果",
+    "timestamp": "2025-10-25T22:09:59.037448",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|烂苹果"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "幌子",
+    "timestamp": "2025-10-25T22:10:07.546457",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|幌子"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "烂苹果",
+    "timestamp": "2025-10-25T22:10:09.051498",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|烂苹果"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "幌子",
+    "timestamp": "2025-10-25T22:10:10.057500",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|幌子"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "烂苹果",
+    "timestamp": "2025-10-25T22:10:10.563401",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|烂苹果"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "幌子",
+    "timestamp": "2025-10-25T22:10:11.581539",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|幌子"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "烂苹果",
+    "timestamp": "2025-10-25T22:10:13.087685",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|烂苹果"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "幌子",
+    "timestamp": "2025-10-25T22:10:13.593412",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|幌子"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "烂苹果",
+    "timestamp": "2025-10-25T22:10:14.597690",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|烂苹果"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "幌子",
+    "timestamp": "2025-10-25T22:10:15.102414",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|幌子"
+  },
+  {
+    "artist": "犬儒乐队",
+    "title": "烂苹果",
+    "timestamp": "2025-10-25T22:10:15.113375",
+    "software": "AMLL Player",
+    "key": "犬儒乐队|烂苹果"
+  },
+  {
+    "artist": "痛仰乐队",
+    "title": "幌子",
+    "timestamp": "2025-10-25T22:10:16.118007",
+    "software": "AMLL Player",
+    "key": "痛仰乐队|幌子"
+  }
+]
